@@ -1,1 +1,4 @@
-# algoritmos-em-python
+# Algoritmos em python
+
+
+1 - Busca binária 
